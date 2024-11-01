@@ -49,6 +49,9 @@ git log # 로그 확인
 ```bash
 git remote add origin https://github.com/MinJeong387/GITTEST.git
 # git remote add 저장소이름 저장소주소
+```
+- PUSH
+```bash
 git push -u origin master # 첫번째 푸시
 git push # 기본원격지 현재브랜치를 푸시
 ```
