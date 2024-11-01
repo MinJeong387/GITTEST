@@ -64,5 +64,8 @@ git clone https://github.com/MinJeong387/GITTEST.git
 # git clone 원격지주소
 ```
 
-변경했습니다
-변경했습니다2
+- 저장소 설정
+
+- 원격지 변경사항 FETCH (확인)
+
+- 원격지 변경사항 PULL (내려받기)
